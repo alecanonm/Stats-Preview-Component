@@ -79,8 +79,14 @@ dt {
   font-family: "Lexend Deca";
 }
 
+figure {
+  background-color: var(--accent);
+}
+
 .mobile {
   width: 100%;
+  margin-bottom: -3.5px;
+  filter: opacity(60%);
 }
 
 .desktop {
