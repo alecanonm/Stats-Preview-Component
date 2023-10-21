@@ -29,7 +29,7 @@ The designs were created to the following widths:
 
 ### Font
 
-- Family: [Inter](https://fonts.google.com/specimen/Inter)
+- Family: [Inter](https://fonts.goog le.com/specimen/Inter)
 - Weights: 400, 700
 
 - Family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
